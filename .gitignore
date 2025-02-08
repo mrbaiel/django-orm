@@ -1,0 +1,27 @@
+# Игнорируем виртуальное окружение
+.venv/
+venv/
+env/
+
+.idea/
+
+db.sqlite3
+
+.env
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+staticfiles/
+
+media/
+
+*.log
+
+.DS_Store
+Thumbs.db
+
+*.egg-info/
+dist/
+build/
